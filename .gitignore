@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment files
+.env
+*.env
+
+# OS cruft
+.DS_Store
+
+# Large downloaded binaries
+drivers/
