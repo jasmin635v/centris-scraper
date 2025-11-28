@@ -1,4 +1,4 @@
-<img width="321" height="407" alt="image" src="https://github.com/user-attachments/assets/3468d698-befc-4107-ac9f-af043b9659cf" />
+<img width="160" height="204" alt="image" src="https://github.com/user-attachments/assets/3468d698-befc-4107-ac9f-af043b9659cf" />
 
 
 # centris-ca-scrape
