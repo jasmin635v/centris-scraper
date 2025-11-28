@@ -1,3 +1,6 @@
+<img width="642" height="815" alt="image" src="https://github.com/user-attachments/assets/3468d698-befc-4107-ac9f-af043b9659cf" />
+
+
 # centris-ca-scrape
 [Centris.ca](https://www.centris.ca/) is a Canadian real-estate listing website.
 This project scrapes rental properties (default Montreal filters) and prepares a
